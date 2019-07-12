@@ -1,55 +1,92 @@
-<!DOCTYPE html>
-<html lang="en" >
-    <head>
-        <meta charset="utf-8" />
-        <title>Pure HTML5 file upload | Script Tutorials</title>
-        <link href="css/main.css" rel="stylesheet" type="text/css" />
-        <script src="js/script.js"></script>
-    </head>
-    <body>
-        <header>
-            <h2>Pure HTML5 file upload</h2>
-            <a href="http://www.script-tutorials.com/pure-html5-file-upload/" class="stuts">Back to original tutorial on <span>Script Tutorials</span></a>
-        </header>
-        <div class="container">
-            <div class="contr"><h2>You can select the file (image) and click Upload button</h2></div>
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Color</title>
+	<meta charset="utf-8">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href='../../css.css' rel='stylesheet' type='text/css'>
+	<link href='../../css-1.css' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=0">
+</head>
 
-            <div class="upload_form_cont">
-                <form id="upload_form" enctype="multipart/form-data" method="post" action="upload.php">
-                    <div>
-                        <div><label for="image_file">Please select image file</label></div>
-                        <div><input type="file" name="image_file" id="image_file" onchange="fileSelected();" /></div>
-                    </div>
-                    <div>
-                        <input type="button" value="Upload" onclick="startUploading()" />
-                    </div>
-                    <div id="fileinfo">
-                        <div id="filename"></div>
-                        <div id="filesize"></div>
-                        <div id="filetype"></div>
-                        <div id="filedim"></div>
-                    </div>
-                    <div id="error">You should select valid image files only!</div>
-                    <div id="error2">An error occurred while uploading the file</div>
-                    <div id="abort">The upload has been canceled by the user or the browser dropped the connection</div>
-                    <div id="warnsize">Your file is very big. We can't accept it. Please select more small file</div>
+<body>
 
-                    <div id="progress_info">
-                        <div id="progress"></div>
-                        <div id="progress_percent">&nbsp;</div>
-                        <div class="clear_both"></div>
-                        <div>
-                            <div id="speed">&nbsp;</div>
-                            <div id="remaining">&nbsp;</div>
-                            <div id="b_transfered">&nbsp;</div>
-                            <div class="clear_both"></div>
-                        </div>
-                        <div id="upload_response"></div>
-                    </div>
-                </form>
+	<img id="loading-image" src="res/img/intro/loader.gif" alt="Loading..." style="display:none;">
+	
+	<div id="viz">
+		
+		<div id="webgl"></div>
+		
+		<div id="intro">
+			<h1>
+				<img src="res/img/intro/logo-400.png" alt="ÜberViz">
+			</h1>
+			<h2></h2> 
+			<div id="prompt">Drop MP3 here</div>
+			<div id='sound-options'>
+				<h3>Choose music source:</h3>
+				<div class="option clickable lefty" id="option-mic">
+					<h3 class="underline">Use Microphone</h3>
+					<div class="icon mic"></div>
+				</div>
+				<div class="option clickable" id="option-sample">
+					<h3 class="underline">Play Sample Music</h3>
+					<div class="icon play"></div>
+					<p>"Sound"<br>by Wave</p>
+				</div>
+				<div class="option">
+					<h3>Load MP3</h3>
+					<div class="icon mp3"></div>
+					<p>Drag and Drop<br>MP3 file here.</p>
+				</div>
+			</div>
+		</div>
 
-                <img id="preview" />
-            </div>
-        </div>
-    </body>
+		<div id="info">
+
+			<div id="info-inner">
+				
+				<h2>Music Visualizer</h2>
+				
+				<p>a generative realtime Music Visualizer. Multiple layered audio-reactive visuals automatically sync to incoming audio from the microphone or MP3. Visuals and Post-Processing FX are selected to create a non-repeating progression over time. Audio Reactivity is achieved by processing a combination of audio inputs: Volume, Frequency Levels, Audio Waveform, Beat Detection and BPM.</p>
+
+				<h3>Automatic Mode</h3>
+				<p>By default, works with the incoming audio.</p>
+
+				<h3>Manual Mode</h3>
+				<p>'Q' to toggle Control Panel. Uncheck 'AUTOMATIC' for manual control. Use 'AUDIO' 'Gain' to adjust for source volume. 'W' to set BPM. Use 'VIZ' sliders to adjust audio-reactive Viz parameters. Use 'FX' sliders to adjust post-processing effects. </p>
+				
+				
+
+			</div>
+
+		</div>
+
+		<div class="info-btn btn"></div>
+		<div class="close-btn btn"></div>
+				
+	</div>
+
+	<div id="controls-holder">
+		<div id="controls-header">
+			<div id="debug-text"></div>
+		</div>
+		<canvas id="audio-debug" width="250" height="100"></canvas>
+		<div id="bpm">
+			<div id="bpm-text">BPM: 120.0</div>
+			<canvas id="bpm-display" width="30" height="30"></canvas>
+		</div>
+		<div id="controls"></div>
+	</div>
+
+	<div id="preloader"></div>
+
+	<script src="js/TweenMax.min.js"></script>
+	<script src="js/three.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/lib.min.js"></script>
+	<script src="js/main.min.js"></script>
+
+</body>
+
 </html>

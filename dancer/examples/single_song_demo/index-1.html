@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<!-- Copied from http://lab.flashedge.net/dancer/examples/single_song_demo/index.html by Cyotek WebCopy 1.7.0.600, Monday, July 1, 2019, 11:17:38 AM -->
+	<head>
+		<link href='../../../css-24.css?family=Duru+Sans' rel='stylesheet' type='text/css'>
+		<link href='css/dancer-1.css' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<div id="info">
+			<h1>dancer.js</h1>
+			<h2>JavaScript Audio Library</h2>
+			<a id="togglefft" href="#">toggle FFT spectrum</a>
+			<canvas id="fft" height="50" width="256"></canvas>
+			<ul>
+				<li><a href="https://github.com/jsantell/dancer.js" title="dancer.js on github">view API/source</a></li>
+				<li>by <a href="http://jsantell.com" title="Jordan Santell">jordan santell</a></li>
+			</ul>
+		</div>
+		<div id="songinfo">
+			<span>Now playing...</span>
+			<h3><a href="http://zirconstudios.bandcamp.com/album/unearthed" title="Zircon Studios Bandcamp">Zircon - Devil's Spirit</a></h3>
+		</div>
+		<div id="loading">Loading . . .</div>
+		<!-- Demo dependencies -->
+		<script src="../lib/Three-1.js"></script>
+		<script src="../lib/Stats-1.js"></script>
+		<script src="../lib/Detector-1.js"></script>
+
+		<!-- Dancer.js -->
+		<script src="../../src/dancer-1.js"></script>
+		<script src="../../src/support-1.js"></script>
+		<script src="../../src/kick-1.js"></script>
+		<script src="../../src/adapterWebAudio-1.js"></script>
+		<script src="../../src/adapterMoz-1.js"></script>
+		<script src="../../src/adapterFlash-1.js"></script>
+		<script src="../../lib/fft-1.js"></script>
+		<script src="../../lib/flash_detect-1.js"></script>
+		<script src="../../plugins/dancer.fft-1.js"></script>
+
+		<!-- Demo stuff -->
+		<script src="js/scene-1.js"></script>
+		<script src="js/player-1.js"></script>
+		<script>
+			(function () {
+				var fft = document.getElementById( 'fft' ),
+					toggle = document.getElementById( 'togglefft' );
+				toggle.addEventListener( 'click', function ( e ) {
+					e.preventDefault();
+					fft.style.display = fft.style.display == 'block' ? 'none' : 'block';
+				}, true );
+
+				// Due to requiring loading message to float above the rest (absolute)
+				// But still wanting it centered;
+				var loading = document.getElementById('loading');
+				loading.style.marginLeft = (( window.outerWidth - 500 ) / 2) + 'px';
+			})();
+		</script>
+	</body>
+<!-- Copied from http://lab.flashedge.net/dancer/examples/single_song_demo/index.html by Cyotek WebCopy 1.7.0.600, Monday, July 1, 2019, 11:17:38 AM -->
+</html>
