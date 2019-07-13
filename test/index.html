@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width no-csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth no-csscolumns-breakbefore no-csscolumns-b<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143778691-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143778691-1');
+</script>reakafter no-csscolumns-breakinside flexbox picture srcset 
+
+webworkers" lang=""><script type="text/javascript">
+   
+
+ var spector;
+    var captureOnLoad = false;
+    var captureOffScreen = false;
+    window.__SPECTOR_Canvases = [];
+
+    (function() {
+        var __SPECTOR_Origin_EXTENSION_GetContext = HTMLCanvasElement.prototype.getContext;
+        HTMLCanvasElement.prototype.__SPECTOR_Origin_EXTENSION_GetContext = __SPECTOR_Origin_EXTENSION_GetContext;
+
+        HTMLCanvasElement.prototype.getContext = function () {
+            var context = null;
+            if (!arguments.length) {
+                return context;
+            }
+
+            if (arguments.length === 1) {
+                context = this.__SPECTOR_Origin_EXTENSION_GetContext(arguments[0]);
+                if (context === null) {
+                    return context;
+                }
+            }
+            else if (arguments.length === 2) {
+                context = this.__SPECTOR_Origin_EXTENSION_GetContext(arguments[0], arguments[1]);
+                if (context === null) {
+                    return context;
+                }
+            }
+
+            var contextNames = ["webgl", "experimental-webgl", "webgl2", "experimental-webgl2"];
+            if (contextNames.indexOf(arguments[0]) !== -1) {
+                context.canvas.setAttribute("__spector_context_type", arguments[0]);
+                // Notify the page a canvas is available.
+                var myEvent = new CustomEvent("SpectorWebGLCanvasAvailableEvent");
+                document.dispatchEvent(myEvent);
+
+                if (captureOffScreen) {
+                    var found = false;
+                    for (var i = 0; i < window.__SPECTOR_Canvases.length; i++) {
+                        if (window.__SPECTOR_Canvases[i] === this) {
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (!found) {
+                        window.__SPECTOR_Canvases.push(this);
+                    }
+                }
+
+                if (captureOnLoad) {
+                    // Ensures canvas is in the dom to capture the one we are currently tracking.
+                    if (this.parentElement || false) {
+                        spector.captureContext(context, 500, false);
+                        captureOnLoad = false;
+                    }
+                }
+            }
+
+            return context;
+        }
+    })()</script><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="file:///C:/Users/61/Downloads/html5-boilerplate_v7.2.0/site.webmanifest">
+  <link rel="apple-touch-icon" href="file:///C:/Users/61/Downloads/html5-boilerplate_v7.2.0/icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="index_files/normalize.css">
+  <link rel="stylesheet" href="index_files/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+<script src="index_files/prompt.js"></script></head>
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+<div contenteditable="true">
+  This text can be edited by the user.
+</div>
+  
+  
+  <script src="index_files/modernizr-3.js"></script>
+  <script src="index_files/jquery-3.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="index_files/plugins.js"></script>
+  <script src="index_files/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+  </script>
+  <script src="index_files/analytics.js" async=""></script>
+
+
+
+</body></html>
