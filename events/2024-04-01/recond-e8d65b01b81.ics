@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recond - ECPv4.9.3.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Recond
+X-ORIGINAL-URL:http://recond.like-themes.com
+X-WR-CALDESC:Events for Recond
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20190606T080000
+DTEND;TZID=UTC+0:20240606T170000
+DTSTAMP:20200115T051128
+CREATED:20190704T234838Z
+LAST-MODIFIED:20190704T234852Z
+UID:10216-1559808000-1717693200@recond.like-themes.com
+SUMMARY:Munchen\, Germany
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/munchen-germany-2/
+LOCATION:Santiago Bernabéu
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20190627T080000
+DTEND;TZID=UTC+0:20240627T170000
+DTSTAMP:20200115T051128
+CREATED:20190704T234828Z
+LAST-MODIFIED:20190704T234843Z
+UID:10213-1561622400-1719507600@recond.like-themes.com
+SUMMARY:Madrid\, Spain
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/madrid-spain-2/
+LOCATION:Santiago Bernabéu
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20190729T080000
+DTEND;TZID=UTC+0:20240729T170000
+DTSTAMP:20200115T051128
+CREATED:20190419T221845Z
+LAST-MODIFIED:20190704T235520Z
+UID:8973-1564387200-1722272400@recond.like-themes.com
+SUMMARY:Paris\, France
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/stockholm-sweden/
+LOCATION:Tipsport Arena
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20190830T080000
+DTEND;TZID=UTC+0:20240830T170000
+DTSTAMP:20200115T051128
+CREATED:20190704T234838Z
+LAST-MODIFIED:20190704T235532Z
+UID:10217-1567152000-1725037200@recond.like-themes.com
+SUMMARY:Athens\, Greece
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/munchen-germany-3/
+LOCATION:Arena Fyn
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20191003T080000
+DTEND;TZID=UTC+0:20241003T170000
+DTSTAMP:20200115T051128
+CREATED:20190704T234828Z
+LAST-MODIFIED:20190704T235637Z
+UID:10215-1570089600-1727974800@recond.like-themes.com
+SUMMARY:Rome\, Italy
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/munchen-germany-4/
+LOCATION:SAP Arena
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20191104T080000
+DTEND;TZID=UTC+0:20241104T170000
+DTSTAMP:20200115T051128
+CREATED:20190419T221850Z
+LAST-MODIFIED:20190704T235605Z
+UID:8975-1572854400-1730739600@recond.like-themes.com
+SUMMARY:Riga\, Latvia
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/munchen-germany/
+LOCATION:Grand Hall
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20191209T080000
+DTEND;TZID=UTC+0:20241209T170000
+DTSTAMP:20200115T051128
+CREATED:20190419T221850Z
+LAST-MODIFIED:20190704T235614Z
+UID:8974-1575878400-1733763600@recond.like-themes.com
+SUMMARY:Tokyo\, Japan
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/madrid-spain/
+LOCATION:Lanxess Arena
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC+0:20191229T080000
+DTEND;TZID=UTC+0:20241229T170000
+DTSTAMP:20200115T051128
+CREATED:20190704T234828Z
+LAST-MODIFIED:20190704T235710Z
+UID:10214-1577606400-1735491600@recond.like-themes.com
+SUMMARY:Stockholm\, Sweden
+DESCRIPTION:Quisque scelerisque suscipit purus\, nec venenatis nulla lobortis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tempor id lacus in tincidunt. Vestibulum porttitor risus diam\, nec ullamcorper leo consectetur luctus. Praesent neque nisi\, eleifend sed diam sed\, ultrices venenatis ipsum. Vestibulum ut sem urna. Mauris lorem neque\, egestas eget arcu sit amet\, sagittis dictum risus. Sed dolor ligula\, dictum ac mattis nec\, sagittis non ipsum. Integer sollicitudin nunc vitae nisi facilisis\, sed rutrum elit vestibulum. Duis viverra maximus felis at condimentum. Sed congue mi vel massa laoreet\, vel laoreet risus sollicitudin. Ut pellentesque est lectus\, vitae sodales velit tempus eget. Aenean sem quam\, malesuada non venenatis non\, porta et magna. Donec nec urna eget sapien ornare tristique. Quisque ac accumsan leo. Curabitur elementum ligula in libero dictum\, eu placerat lacus posuere. \n
+URL:http://recond.like-themes.com/event/stockholm-sweden-2/
+LOCATION:Oliver Arena
+ORGANIZER;CN="Like%20Themes":MAILTO:support@like-themes.com
+END:VEVENT
+END:VCALENDAR

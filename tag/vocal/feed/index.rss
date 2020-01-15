@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vocal &#8211; Recond</title>
+	<atom:link href="http://recond.like-themes.com/tag/vocal/feed/" rel="self" type="application/rss+xml" />
+	<link>http://recond.like-themes.com</link>
+	<description>WordPress Theme</description>
+	<lastBuildDate>Wed, 28 Aug 2019 11:21:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+
+<image>
+	<url>http://recond.like-themes.com/wp-content/uploads/2018/02/cropped-favicon-48x48.png</url>
+	<title>vocal &#8211; Recond</title>
+	<link>http://recond.like-themes.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How Smart Speakers Change The Quality Of Listening</title>
+		<link>http://recond.like-themes.com/how-smart-speakers-change-the-quality-of-listening/</link>
+		<comments>http://recond.like-themes.com/how-smart-speakers-change-the-quality-of-listening/#respond</comments>
+		<pubDate>Fri, 23 Nov 2018 12:54:44 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+				<category><![CDATA[Music band]]></category>
+		<category><![CDATA[Recording]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[recording]]></category>
+		<category><![CDATA[vocal]]></category>
+
+		<guid isPermaLink="false">http://recond.like-themes.com/?p=6579</guid>
+		<description><![CDATA[Learn more about WordPress Embeds.]]></description>
+				<content:encoded><![CDATA[<p><iframe width="500" height="281" src="https://www.youtube.com/embed/4P1zgf9kGTg?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Learn more about <a title="WordPress Embeds" href="http://codex.wordpress.org/Embeds" target="_blank" rel="noopener noreferrer">WordPress Embeds</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://recond.like-themes.com/how-smart-speakers-change-the-quality-of-listening/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

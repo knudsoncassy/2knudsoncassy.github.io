@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gallery &#8211; Recond</title>
+	<atom:link href="http://recond.like-themes.com/gallery/feed/" rel="self" type="application/rss+xml" />
+	<link>http://recond.like-themes.com</link>
+	<description>WordPress Theme</description>
+	<lastBuildDate>Wed, 28 Aug 2019 11:21:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+
+<image>
+	<url>http://recond.like-themes.com/wp-content/uploads/2018/02/cropped-favicon-48x48.png</url>
+	<title>Gallery &#8211; Recond</title>
+	<link>http://recond.like-themes.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Amsterdam</title>
+		<link>http://recond.like-themes.com/gallery/recording/</link>
+		<pubDate>Thu, 08 Feb 2018 22:45:38 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=3409</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Los Angeles</title>
+		<link>http://recond.like-themes.com/gallery/mastering/</link>
+		<pubDate>Thu, 08 Feb 2018 22:44:38 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=3410</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Berlin</title>
+		<link>http://recond.like-themes.com/gallery/sound-editing/</link>
+		<pubDate>Thu, 08 Feb 2018 22:43:38 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=3411</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Milan</title>
+		<link>http://recond.like-themes.com/gallery/voice-recording/</link>
+		<pubDate>Thu, 08 Feb 2018 22:41:38 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=3412</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Mixing</title>
+		<link>http://recond.like-themes.com/gallery/mixing/</link>
+		<pubDate>Thu, 08 Feb 2018 22:41:32 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=3407</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Music band</title>
+		<link>http://recond.like-themes.com/gallery/music-band/</link>
+		<pubDate>Thu, 23 Feb 2017 17:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[Henry Karter]]></dc:creator>
+		
+		<guid isPermaLink="false">http://recond.like-themes.com/?post_type=gallery&#038;p=6875</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
